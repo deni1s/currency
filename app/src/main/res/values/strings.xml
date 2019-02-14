@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Currency</string>
+    <string name="string_bid">bid: %f</string>
+    <string name="string_ask">ask: %f</string>
+    <string name="string_was_upated">Обновлено %01d секунд назад</string>
+
+</resources>
